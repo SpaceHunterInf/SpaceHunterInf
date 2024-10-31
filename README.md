@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on natural language processing, dialogue modelling and machine learning.
+- 🌱 I’m currently a PhD student at University of Cambridge, in Department of Computer Science and Technology
 
 <!--
 **SpaceHunterInf/SpaceHunterInf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
